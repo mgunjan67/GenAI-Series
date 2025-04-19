@@ -1,8 +1,0 @@
-langchain
-langchain-openai
-python-dotenv
-streamlit
-tiktoken
-faiss-cpu
-langchain_experimental
-sentence-transformers
