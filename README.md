@@ -7,4 +7,5 @@
 ![gemini_app_qa](https://github.com/user-attachments/assets/1be8668d-36d5-4f64-abce-061b1c98231d)
 
 ## talking_database
-![talking_database](https://github.com/user-attachments/assets/1b05560e-1119-41ee-9e6f-45eae0825985)
+![talking-database](https://github.com/user-attachments/assets/b6d584ed-e905-410e-b492-c1cb9e3d7b2c)
+
